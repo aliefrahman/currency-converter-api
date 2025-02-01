@@ -1,3 +1,10 @@
+/* 
+* eslint-disable no-undef 
+* eslint-disable no-unused-vars
+* Author: Aliefrahman
+* File:   currencyService.js
+* Date: 02/02/2025
+*/
 import axios from 'axios';
 import { config } from '../config/config.js';
 

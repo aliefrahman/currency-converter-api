@@ -1,3 +1,10 @@
+/* 
+* CurrencyController class
+* This class is responsible for handling the requests and responses related to currency conversion.
+* Author: Aliefrahman
+* File:   currencyController.js
+* Date: 02/02/2025
+*/
 class CurrencyController {
     constructor(currencyService) {
         this.currencyService = currencyService;
